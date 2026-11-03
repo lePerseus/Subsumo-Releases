@@ -1,5 +1,9 @@
 # Subsumo — Fassungen
 
+Subsumo ist die Lern-App für das Jurastudium: Prüfungsschemata, Karteikarten und
+Gesetze an einem Ort. Alles über die App steht auf **[subsumo.site](https://subsumo.site)**;
+im Browser läuft sie unter [subsumo.vercel.app](https://subsumo.vercel.app).
+
 Hier liegen die fertigen Programmdateien von Subsumo zum Herunterladen.
 Der Quelltext liegt nicht hier.
 
